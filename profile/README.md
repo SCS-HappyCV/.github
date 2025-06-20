@@ -16,12 +16,12 @@
 ## 实验室风采
 
 
-![2025毕业实验室合影](https://happy-cv.oss-cn-shanghai.aliyuncs.com/DSC_1136.JPG)
+![2025毕业实验室合影](../images/lab_photo/DSC_1136.JPG)
 
 
 <p align="center">
-  <img src="https://happy-cv.oss-cn-shanghai.aliyuncs.com/DSC_1199.JPG" width="72%"/>
-  <img src="https://happy-cv.oss-cn-shanghai.aliyuncs.com/DSC_2000.jpg" width="27%"/>
+  <img src="../images/lab_photo/DSC_1199.JPG" width="72%"/>
+  <img src="../images/lab_photo/DSC_2000.jpg" width="27%"/>
 </p>
 
 ## 联系方式
