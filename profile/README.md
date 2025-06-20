@@ -16,7 +16,7 @@
 ## 实验室风采
 
 
-![2025毕业实验室合影](../images/lab_photo/DSC_1118.JPG)
+![2025毕业实验室合影](../images/lab_photo/DSC_1136.JPG)
 
 
 <p align="center">
