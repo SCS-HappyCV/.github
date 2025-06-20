@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="../images/lab_photo/DSC_1199.JPG" width="70%"/>
-  <img src="../images/lab_photo/DSC_2000.JPG" width="26%"/>
+  <img src="../images/lab_photo/DSC_2000.jpg" width="26%"/>
 </p>
 
 ## 联系方式
