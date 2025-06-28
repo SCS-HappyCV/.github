@@ -26,8 +26,8 @@
 
 ## 联系方式
 
-- **指导老师**：周维教授（zhou_wei@xtu.edu.cn）
-- **实验室地址**：工科楼N403
+- **指导老师**：周维教授（zhou_wei@xtu.edu.cn） 许海霞教授（haixiaxu@xtu.edu.cn）
+- **实验室地址**：工科楼N403 S408
 - **加入我们**：欢迎对AI与计算机视觉感兴趣的同学加入！请通过邮箱联系我们。
 
 
@@ -48,11 +48,11 @@
 
 | ![张三](images/zhangsan.jpg) | ![李四](images/lisi.jpg) | ![王五](images/wangwu.jpg) |
 | :--------------------------: | :----------------------: | :------------------------: |
-| **张三**<br>研究方向：图像分割<br>代表成果：<br>• [论文1](#)<br>• [项目A](#)<br>联系方式：zhangsan@email.com | **李四**<br>研究方向：目标检测<br>代表成果：<br>• [论文2](#)<br>• [项目B](#)<br>联系方式：lisi@email.com | **王五**<br>研究方向：三维重建<br>代表成果：<br>• [论文3](#)<br>• [项目C](#)<br>联系方式：wangwu@email.com |
-
+| **张三**<br>研究方向：图像分割<br>联系方式：zhangsan@email.com | **李四**<br>研究方向：目标检测<br>联系方式：lisi@email.com | **王五**<br>研究方向：三维重建<br>联系方式：wangwu@email.com |
+#### 照片墙
 
 ### 2023届
 
 | ![赵六](images/zhaoliu.jpg) | ![孙七](images/sunqi.jpg) | ![周八](images/zhouba.jpg) |
 | :------------------------: | :----------------------: | :------------------------: |
-| **赵六**<br>研究方向：人脸识别<br>代表成果：<br>• [论文4](#)<br>• [项目D](#)<br>联系方式：zhaoliu@email.com | **孙七**<br>研究方向：图像增强<br>代表成果：<br>• [论文5](#)<br>• [项目E](#)<br>联系方式：sunqi@email.com | **周八**<br>研究方向：目标跟踪<br>代表成果：<br>• [论文6](#)<br>• [项目F](#)<br>联系方式：zhouba@email.com |
+| **赵六**<br>研究方向：人脸识别<br>联系方式：zhaoliu@email.com | **孙七**<br>研究方向：图像增强<br>联系方式：sunqi@email.com | **周八**<br>研究方向：目标跟踪<br>联系方式：zhouba@email.com |
