@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://scs-happycv.github.io/lab-homepage/"><strong>访问实验室主页</strong></a>
-</p>
-
 ## 研究方向
 
 - 计算机视觉与视觉感知
